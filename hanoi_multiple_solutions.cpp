@@ -1,4 +1,3 @@
-/* 信息安全 1953463 郭卫冉 */
 #include<iostream>
 #include<iomanip>
 #include<conio.h>

@@ -1,4 +1,3 @@
-/* 信息安全 1953463 郭卫冉 */
 #include<iostream>
 #include<conio.h>
 #include"cmd_console_tools.h"
